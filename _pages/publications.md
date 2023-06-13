@@ -50,4 +50,4 @@ Visit my [Google Scholar page](https://scholar.google.com/citations?user=VXdIb40
 ## Phd Thesis
 
 - **Strengthening mechanisms in dilute and random solid solution high-entropy BCC alloys**\
-  Rasool Ahmad, _EPFL_, 2020. [<i class="fa-solid fa-link"></i>](https://infoscience.epfl.ch/record/294573)
+  Alireza Ghafarollahi, _EPFL_, 2022. [<i class="fa-solid fa-link"></i>](https://infoscience.epfl.ch/record/294573)
