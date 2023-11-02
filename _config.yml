@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "De"
+locale                   : "USA"
 title                    : "Alireza Ghafarollahi"
 title_separator          : "-"
 name                     : &name "Alireza Ghafarollahi"
@@ -83,7 +83,7 @@ author:
   name             : "Alireza Ghafarollahi"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Researcher"
-  location         : "Max-Planck-Institut für Eisenforschung"
+  location         : "MIT"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VXdIb40AAAAJ&hl=en&oi=ao"
